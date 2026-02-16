@@ -43,3 +43,5 @@ if will_rain:
     message = "☔ Thomas, it's going to rain in Aalsmeer! Bring your umbrella! "
     send_telegram_message(message)
 
+
+
